@@ -1,4 +1,4 @@
- {
+{
     "name": "name",
     "description": "description",
     "authors": "author",
@@ -7,6 +7,4 @@
     "dependencies": {
         "express": "^4.17.1"
     }
-} 
-    
-  
+}
